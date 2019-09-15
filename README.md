@@ -1,2 +1,2 @@
 # hello-universe
-first github respository.
+First GitHub Respository.
